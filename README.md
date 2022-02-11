@@ -10,8 +10,8 @@
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xihuanxiaorang&theme=monokai">
 
 ### 📫 How to reach me:
-- :octocat: [github@xiaorang](https://sspaino.github.io/weiliangshi.github.io/)
-- :email: [gmail@xiaorang](shiweiliang@stumail.nwu.edu.cn)
+- :octocat: [https://sspaino.github.io/weiliangshi.github.io/](https://sspaino.github.io/weiliangshi.github.io/)
+- :email: [shiweiliang@stumail.nwu.edu.cn](shiweiliang@stumail.nwu.edu.cn)
 
 
 | :pencil2: | :book:  |
