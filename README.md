@@ -10,20 +10,18 @@
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xihuanxiaorang&theme=monokai">
 
 ### 📫 How to reach me:
-- :octocat: [github@xiaorang](https://github.com/xihuanxiaorang)
-- :email: [gmail@xiaorang](mailto:15019474951@gmail.com)
-- :tv: [bilibili@xiaorang](https://space.bilibili.com/307881917)
-- :bird: [yuque@xiaorang](https://www.yuque.com/xihuanxiaorang)
+- :octocat: [github@xiaorang](https://sspaino.github.io/weiliangshi.github.io/)
+- :email: [gmail@xiaorang](shiweiliang@stumail.nwu.edu.cn)
 
 
 | :pencil2: | :book:  |
 | --- | --- |
-| [Blogs](https://xihuanxiaorang.github.io/) | [Books](https://www.yuque.com/xihuanxiaorang/java) |
+| [Blogs](https://sspaino.github.io/weiliangshi.github.io/) | [Books](https://sspaino.github.io/weiliangshi.github.io/) |
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🍭 Write Articles on [Yueque](https://www.yuque.com/xihuanxiaorang/java) with [github](https://github.com/xihuanxiaorang/)
-2. 🍹 Study on [Bilibili](https://www.bilibili.com/)
+1. 🍭 Write Articles on [Yueque](https://sspaino.github.io/weiliangshi.github.io/) with [github](https://sspaino.github.io/weiliangshi.github.io/)
+2. 🍹 Study on [Bilibili](https://sspaino.github.io/weiliangshi.github.io/)
 <!--END_SECTION:activity-->
 
 <!--
