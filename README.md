@@ -10,18 +10,18 @@
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sspaino&theme=monokai">
 
 ### 📫 How to reach me:
-- :octocat: [https://sspaino.github.io/weiliangshi.github.io/](https://sspaino.github.io/weiliangshi.github.io/)
+- :octocat: [https://sspaino.github.io/](https://sspaino.github.io/)
 - :email: [shiweiliang@stumail.nwu.edu.cn](shiweiliang@stumail.nwu.edu.cn)
 
 
 | :pencil2: | :book:  |
 | --- | --- |
-| [Blogs](https://sspaino.github.io/weiliangshi.github.io/) | [Books](https://sspaino.github.io/weiliangshi.github.io/) |
+| [Blogs](https://sspaino.github.io/) | [Books](https://sspaino.github.io/) |
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🍭 learn ZN and ML [ZN](https://sspaino.github.io/weiliangshi.github.io/) with [github](https://sspaino.github.io/weiliangshi.github.io/)
-2. 🍹 Study on [Bilibili](https://sspaino.github.io/weiliangshi.github.io/)
+1. 🍭 learn ZN and ML [ZN](https://sspaino.github.io/) with [github](https://sspaino.github.io/)
+2. 🍹 Study on [Bilibili](https://sspaino.github.io/)
 <!--END_SECTION:activity-->
 
 <!--
