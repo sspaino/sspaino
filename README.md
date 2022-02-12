@@ -20,7 +20,7 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🍭 learn ZN and ML [Yueque](https://sspaino.github.io/weiliangshi.github.io/) with [github](https://sspaino.github.io/weiliangshi.github.io/)
+1. 🍭 learn ZN and ML [ZN](https://sspaino.github.io/weiliangshi.github.io/) with [github](https://sspaino.github.io/weiliangshi.github.io/)
 2. 🍹 Study on [Bilibili](https://sspaino.github.io/weiliangshi.github.io/)
 <!--END_SECTION:activity-->
 
