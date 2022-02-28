@@ -2,8 +2,8 @@
 
 <h1 align="center">I'm Wei Liang SHI</h1>
 
-[![linux](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
-[![](https://img.shields.io/badge/-python-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
+[![Linux](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
+[![Python](http://simpleicons.p2hp.com/icons/python.svg)
 
 ### 📫 How to reach me:
 - :octocat: [https://shiweiliangliang.github.io/](https://shiweiliangliang.github.io/)
