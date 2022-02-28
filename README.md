@@ -2,7 +2,7 @@
 
 <h1 align="center">I'm Wei Liang SHI</h1>
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
-[![]https://img.shields.io/badge/python-python3.9-blue]
+[![](https://img.shields.io/badge/python-python3.9-blue)]
 
 
 ### 📫 How to reach me:
