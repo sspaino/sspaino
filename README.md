@@ -10,22 +10,15 @@
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sspaino&theme=monokai">
 
 ### 📫 How to reach me:
-- :octocat: [https://sspaino.github.io/](https://sspaino.github.io/)
-- :email: [shiweiliang@stumail.nwu.edu.cn](shiweiliang@stumail.nwu.edu.cn)
+- :octocat: [https://shiweiliangliang.github.io/](https://shiweiliangliang.github.io/)
+- :email: shiweiliang@stumail.nwu.edu.cn
 
 
 | :pencil2: | :book:  |
 | --- | --- |
-| [Blogs](https://sspaino.github.io/) | [Books](https://sspaino.github.io/) |
+| [Blogs](https://shiweiliangliang.github.io/) | [Books](https://sspaino.github.io/) |
 
-### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-1. 🍭 learn ZN and ML [ZN](https://sspaino.github.io/) with [github](https://sspaino.github.io/)
-2. 🍹 Study on [Bilibili](https://sspaino.github.io/)
-<!--END_SECTION:activity-->
 
-<!--
-**xihuanxiaorang/xihuanxiaorang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
