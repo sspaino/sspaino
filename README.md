@@ -2,8 +2,8 @@
 
 <h1 align="center">I'm Wei Liang SHI</h1>
 
-![](https://img.shields.io/badge/python-python3.9-blue)
-![](https://img.shields.io/badge/Linux-centos-blue)
+[![](https://img.shields.io/badge/python-python3.9-blue)](https://www.python.org/)
+[![](https://img.shields.io/badge/Linux-centos-blue)](https://www.centos.org/)
 
 
 ### 📫 How to reach me:
