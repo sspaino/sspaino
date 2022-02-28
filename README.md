@@ -8,10 +8,9 @@
 - :email: shiweiliang@stumail.nwu.edu.cn
 
 
-| :pencil2: | :book:  |
-| --- | --- |
-| [Blogs](https://shiweiliangliang.github.io/) | [Books](https://sspaino.github.io/) |
-
+| :pencil2: |
+| --- | 
+| [Blogs](https://shiweiliangliang.github.io/) |
 
 
 Here are some ideas to get you started:
