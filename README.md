@@ -4,7 +4,7 @@
 
 [![](https://img.shields.io/badge/python-python3.9-blue)](https://www.python.org/)
 [![](https://img.shields.io/badge/Linux-centos-blue)](https://www.centos.org/)  
-[![]http://simpleicons.p2hp.com/icons/python.svg]
+![]http://simpleicons.p2hp.com/icons/python.svg
 
 ### 📫 How to reach me:
 - :octocat: [https://shiweiliangliang.github.io/](https://shiweiliangliang.github.io/)
